@@ -5,7 +5,9 @@
     { "id": 103, "name": "Samsung Galaxy S20", "link": "#/products/103"},
     { "id": 104, "name": "Sony TV Bravia 65", "link": "#/products/104"},
     { "id": 105, "name": "Apple - AirPods with Charging Case", "link": "#/products/105"},
-    { "id": 106, "name": "iRobot - Roomba i7+ Wi-Fi", "link": "#/products/106"}
+    { "id": 106, "name": "iRobot - Roomba i7+ Wi-Fi", "link": "#/products/106"},
+    { "id": 1001, "name": "TV", "link": "#/products/1001" },
+    { "id": 1002, "name": "iPad", "link": "#/products/1002" }
   ],
-  "cart": [{"id": 101},{"id": 102},{"id": 103}]
+  "cart": [{"id": 1001},{"id": 1002}]
 }
